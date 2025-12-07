@@ -1,0 +1,3 @@
+# Ignore cache folders created during HTML export or by libraries
+cache/
+.cache/
