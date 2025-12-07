@@ -1,3 +1,7 @@
-# Ignore cache folders created during HTML export or by libraries
+# Ignore cache folder
 cache/
 .cache/
+
+# Ignore output HTML files
+output/*.html
+
