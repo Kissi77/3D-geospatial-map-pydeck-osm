@@ -14,3 +14,8 @@ The code downloads building footprints and height data for **Bonn, Germany**, pr
 - Filter and clean height attributes  
 - Visualize buildings as 3D extrusions with PyDeck  
 - Export an interactive `.html` map
+
+
+## Interactive 3D Map
+
+Explore the 3D map of Bonn here: [Open 3D Map] (https://kissi77.github.io/3D-geospatial-map-pydeck-osm)
